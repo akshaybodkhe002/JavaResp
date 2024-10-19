@@ -12,4 +12,8 @@ public class Hello{
     public void funt3() {
         System.out.println("This is time pass funtions...");
     }
+    
+    public void funt4() {
+        System.out.println("This is time pass funtions...");
+    }
 }
