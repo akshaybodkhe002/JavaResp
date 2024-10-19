@@ -8,4 +8,7 @@ public class Hello{
      public void funt2(){
         System.out.println("This is time pass funtions...");
     }
+    public void funt4(){
+        System.out.println("This is time pass funtions...");
+    }
 }
