@@ -5,4 +5,7 @@ public class Hello{
     public void funt(){
         System.out.println("This is time pass funtions...");
     }
+     public void funt2(){
+        System.out.println("This is time pass funtions...");
+    }
 }
